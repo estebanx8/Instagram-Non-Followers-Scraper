@@ -21,4 +21,4 @@ The script uses the following functions:
 ## LICENSE
 This script is licensed under the MIT License. See the 'LICENSE' file for details.
 ## AUTHOR
-JETG (https://github.com/estebanx8)
+[JETG](https://github.com/estebanx8)
